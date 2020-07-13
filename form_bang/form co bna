@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="get" action="simpleform.html">
+</form>
+<h2>orer form</h2>
+<p>what would you like to buy?</p>
+<select>
+    <option value="A">A</option>
+    <option>B (+ 0.5$)</option>
+    <OPTION>C (+ 0.5$)</OPTION>
+</select>
+<P>how many would you like to order?</P>
+<input type="radio" name="rd"/>1-$10 <br/>
+<input type="radio" name="rd"/>2-$20 <br>
+<input type="radio" name="rd"/>3-$30 <br>
+<p>Name <spam style="color: red">*</spam></p>
+<input type="text"name="firstname"placeholder="firstname" size="15"/>
+<input type="text"namae="lastname"placeholder="lastname"size="15"/>
+<p>Email</p>
+<input type="text"name="email"size="35"/>
+<p>phone Numper</p>
+<input type="text"name="phone1"size="5"/>-
+<input type="text"name="phone2"size="5"/>-
+<input type="text"name="phone3"size="5"/>-
+<p><input type="button"name="btsublrmit"value="submit"/></p>
+<style>
+    .wufoo {
+        font-family: "lucida grende", "lucida sans unicode", tahoma, sans-serif;
+    }
+    </style
+
+
+
